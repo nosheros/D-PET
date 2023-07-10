@@ -1,0 +1,2 @@
+CROC = LINE 1
+SNAKE = LINE 2
